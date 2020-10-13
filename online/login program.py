@@ -1,9 +1,8 @@
 x=int(input("enter loin id"))
 y=int(input("enter password"))
-print(type(b))
-if(x == 123456):
+if x == 123456:
     print("continue")
-    if(y == 98765):
+    if y == 98765:
         print("login sucessfull")
     else:
         print("enter password correctly")
